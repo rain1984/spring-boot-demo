@@ -3,7 +3,6 @@ package com.springboot.example.springbootdemo.user.entity;
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.springboot.example.springbootdemo.department.entity.Department;
 import com.springboot.example.springbootdemo.role.entity.Role;
-import org.springframework.data.annotation.Id;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import javax.persistence.*;
